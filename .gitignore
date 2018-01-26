@@ -1,0 +1,5 @@
+/EfergyRPI_log
+/logs
+/pids
+data-logger.bash
+/telegraf*
